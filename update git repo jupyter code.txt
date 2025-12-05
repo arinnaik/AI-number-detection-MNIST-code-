@@ -1,0 +1,12 @@
+pwd
+cd ../AI-number-detection-MNIST-code-
+cd AI-number-detection-MNIST-code-
+ls
+git pull
+git add .
+git commit -a
+:wq
+git branch final
+git checkout final
+git branch
+git push origin final
